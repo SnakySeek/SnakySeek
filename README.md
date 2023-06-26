@@ -1,1 +1,1 @@
-Geometry Dash [Stuff](https://github.com/stars/SnakySeek/lists/geometry-dash)
+Geometry Dash [Stuff](https://snakyseek.github.io/Geometry-Dash-Mods/)
